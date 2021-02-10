@@ -1,8 +1,10 @@
-# Deploymentz_ML_Model-Flask
+# Deployment_ML_Model-Flask
 
-To the the application use folllowing command.
+__Running the Application__
 
-<code>__python 3 appFlask.py__</code>
+To run the application use folllowing command.
+
+<code>__python3 appFlask.py__</code>
 
 Then it will start running. Click on localhost link.
 
